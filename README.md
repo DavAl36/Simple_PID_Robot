@@ -11,4 +11,3 @@ Components:
 * Arduino Mini Pro
 * mpu6050
 * Motor Driver
-  * Sub Iem 2
